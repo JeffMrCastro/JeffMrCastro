@@ -8,7 +8,8 @@
    <a href="https://github.com/JeffMrCastro"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffMrCastro&show_icons=true&theme=radical"/>  
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffMrCastro&layout=compact&theme=radical"/>
-   
+   <img src="https://github.com/JeffMrCastro/JeffMrCastro/assets/143403162/4dafd9c3-4527-4314-bae3-866f0e6476d7">
+
  </div>
  
   <div>
