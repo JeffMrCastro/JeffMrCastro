@@ -1,3 +1,5 @@
+<img height="280em" width="80%" src="https://github.com/JeffMrCastro/JeffMrCastro/assets/143403162/1f220b68-e72a-47c8-9aa8-7bd93549bcc0">
+
 ### Olá, eu sou Jefferson Moraes 👋
 
 - 💼 Sou operador de maquinas e estagiario de TI.
@@ -7,8 +9,8 @@
  <div>
    <a href="https://github.com/JeffMrCastro"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffMrCastro&show_icons=true&theme=radical"/>  
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffMrCastro&layout=compact&theme=radical"/>
-   <img src="https://github.com/JeffMrCastro/JeffMrCastro/assets/143403162/4dafd9c3-4527-4314-bae3-866f0e6476d7">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffMrCastro&layout=compact&theme=radical">
+   
 
  </div>
  
