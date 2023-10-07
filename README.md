@@ -8,10 +8,9 @@
   
  <div>
    <a href="https://github.com/JeffMrCastro"></a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffMrCastro&show_icons=true&theme=radical"/>  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffMrCastro&show_icons=true&theme=radical">  
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffMrCastro&layout=compact&theme=radical">
-   
-
+   <img height="180em" src="https://github.com/JeffMrCastro/JeffMrCastro/assets/143403162/d2e6c92c-6f13-42e5-92ec-3a0f6bb49e0f"> 
  </div>
  
   <div>
