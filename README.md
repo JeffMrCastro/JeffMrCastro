@@ -1,4 +1,4 @@
-<img height="280em" width="100%" src="https://github.com/JeffMrCastro/JeffMrCastro/assets/143403162/1f220b68-e72a-47c8-9aa8-7bd93549bcc0">
+<img height="180em" width="100%" src="https://github.com/JeffMrCastro/JeffMrCastro/assets/143403162/1f220b68-e72a-47c8-9aa8-7bd93549bcc0">
 
 # Olá, eu sou Jefferson Moraes 👋
 
